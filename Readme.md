@@ -5,7 +5,7 @@
 # Desafío Desarrolado para Muvsmart - Ganadoras del primer premio. 
 -------------------------------------------
 
-# Muvsmart : es una Start Up con menos de 2 años en el mercado que ofrecen un servicio de "envios" de un punto a otro. Su propuesta de valor y lo que los diferencia de su competencia consiste en : 
+# Muvsmart es una Start Up con menos de 2 años en el mercado que ofrecen un servicio de "envios" de un punto a otro. Su propuesta de valor y lo que los diferencia de su competencia consiste en : 
  - Ser sustentable <br>
  - Movimiento limpio. No dejar huella ( sus moovers son bicis y autos electricos) <br>
  - No poseen Bodega. Servicio sumamente rápido. <br>
@@ -18,15 +18,15 @@
 
 # Como lo hicimos?
 
-#- Primer paso:
+- Primer paso: <br>
  "Planning" : definir tareas y actividades a realizar. <br>
-#- Segundo paso:  
+- Segundo paso: <br> 
 “Entendiendo el problema”.Investigación, benchmark, estudio de negocio,  acercamiento a sus clientes,  encuestas. <br>
-#- Tercer paso:
+- Tercer paso: <br>
  "Síntesis y definición ". Organizar información. Agrupar los hallazgos. <br>
-#- Cuarto paso: 
+- Cuarto paso:  <br>
 "Idear" una propuesta de mejora. Gestión de contenido. Wireframes a papel. <br>
-#- Quinto paso: 
+- Quinto paso: <br> 
 "Prototipar y testear".Realización de test a/b. Testeo del flujo de navegación. Implementar el feedback recibido. Iterar. <br>
 
 # Insights ( hallazgos descubiertos a través de la investigación, testeos, encuestas) :
@@ -38,6 +38,16 @@
  - Poder añadir una dirección de retorno. Ya que no siempre el objeto debe volver al mismo lugar. <br>
  - Poder seguir el envío en línea. <br>
  - Horarios claros para la entrega del objeto a transportar. <br>
+
+# Sitio web de Muvsmart : 
+
+<img src="img/muvsmart1.png" alt="" width="200">
+<img src="img/muvsmart2.png" alt="" width="200">
+<img src="img/muvsmart3.png" alt="" width="200">
+
+# Prototipo mejorado "Nuestra propuesta" :
+
+
 
 
 
