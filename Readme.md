@@ -3,11 +3,11 @@
 
 -----------------------------------------
 # Desafío Desarrolado para Muvsmart - Ganadoras del primer premio. 
--------------------------------------------
+
 
 # Muvsmart es una Start Up con menos de 2 años en el mercado que ofrecen un servicio de "envios" de un punto a otro. Su propuesta de valor y lo que los diferencia de su competencia consiste en : 
  - Ser sustentable <br>
- - Movimiento limpio. No dejar huella ( sus moovers son bicis y autos electricos) <br>
+ - Movimiento limpio. No dejar huella ( sus moovers se transportan en bicis y autos electricos) <br>
  - No poseen Bodega. Servicio sumamente rápido. <br>
 
 # Que problema nos presentaron? El desafío consistia en :
