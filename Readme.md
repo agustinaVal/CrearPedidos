@@ -39,13 +39,23 @@
  - Poder seguir el envío en línea. <br>
  - Horarios claros para la entrega del objeto a transportar. <br>
 
-# Sitio web de Muvsmart : 
+# Sitio web de Muvsmart : https://muvsmart.com/
 
 <img src="img/muvsmart1.png" alt="" width="200">
 <img src="img/muvsmart2.png" alt="" width="200">
 <img src="img/muvsmart3.png" alt="" width="200">
 
 # Prototipo mejorado "Nuestra propuesta" :
+
+https://www.figma.com/proto/bxk0zVdKbNLoxhhiieOrA3Bj/Muvsmart?scaling=min-zoom&node-id=40%3A1040
+
+
+# Conclusiones Finales:
+
+Reto sumamente importante para poder desarrollarnos profesionalmente. 
+Personalmente, me apasiona poder crear soluciones concretas y elocuentes ante la real necesidad de la empresa y sus usuarios. 
+En este desafío, hemos logrado darle una visión clave a Muvsmart de sus usuarios. Entregamos , en una semana, datos específicos a tener en cuenta en correciones a futuro.  
+
 
 
 
